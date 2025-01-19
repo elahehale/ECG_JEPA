@@ -3,7 +3,7 @@ dataloader:
   num_workers: 8
 
 train:
-  epochs: 10
+  epochs: 30
   accum_iter: 1
   warmup_epochs: 3
   min_lr: 0
